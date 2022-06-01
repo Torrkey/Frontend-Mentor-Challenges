@@ -1,5 +1,8 @@
 # Front End Mentor - Order Summary Card Solution
 
+#Can be viewed at:
+https://torrkey.github.io/Frontend-Mentor-Challenges/order-summary-component/
+
 # The Challenge
 -Goal was to build an order summary card component for a music service web app
 -Users should be able to see hover states for interactive elements 
