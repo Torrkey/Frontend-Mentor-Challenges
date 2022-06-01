@@ -1,6 +1,6 @@
 # Front End Mentor - Order Summary Card Solution
 
-#Can be viewed at:
+Can be viewed at:
 https://torrkey.github.io/Frontend-Mentor-Challenges/order-summary-component/
 
 # The Challenge
